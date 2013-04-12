@@ -12,6 +12,9 @@
   "author": "Charles Lavery",
   "license": "MIT",
   "dependencies": {
-    "grunt-generator": "*"
+    "grunt-generator": "*",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.3.1"
   }
 }
