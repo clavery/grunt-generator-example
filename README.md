@@ -8,7 +8,7 @@ grunt-cli is required to run grunt from the command line: `npm install -g grunt-
 
 1. Clone this project.
 2. `npm install`
-3. `grunt generator` to generate the site in the `build` directory
+3. `grunt generator` to generate the site in the `build` directory (or just `grunt` to watch files and serve the build directory on http://localhost:8000)
 
 ## History
 
