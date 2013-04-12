@@ -1,0 +1,17 @@
+{
+  "name": "grunt-generator-example",
+  "version": "0.1.0",
+  "description": "example project for grunt-generator",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/clavery/grunt-generator-example.git"
+  },
+  "author": "Charles Lavery",
+  "license": "MIT",
+  "dependencies": {
+    "grunt-generator": "*"
+  }
+}
